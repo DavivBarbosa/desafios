@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agr vou gerenciar meus repositórios
 
-<a href="https://davivbarbosa.github.io/desafios/Desafio05/"> Executar o Desafio 05
+<a href="https://davivbarbosa.github.io/desafios/Desafio05/" taregt="_blank"> Executar o Desafio 05
